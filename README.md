@@ -1,20 +1,32 @@
 # Sloth
 
 ## About
-- Hi, welcome to Sloth! Sloth was designed to put the fun in walking an otherwise boring task. It achives this by giving the user a snuggle of sloths which they have to take care of by reacing their daily step count target. This Target is dynamically updated depending on how many sloths the user has. If they dont reach their target they will lose their uniquely generated sloth and their passions for good.
+Sloth was designed to make walking fun through gamification. 
+
+Players start with a "snuggle" of five sloths, each of which has a name, a personality and a hobby. There are more than 600 trillion possible combinations of sloths, so each individual is rare. If the player beats their daily step target, they'll receive a new sloth. Every fifth sloth has a distinct design. But if the player misses their step target, a sloth will die. 
+
+The daily target is dynamic: it rises if the player hits the target and falls if they miss the goal. 
+
+Sloths with a positive personality are upbeat and will encourage the player to keep walking. Neutral sloths will dispense sloth-related facts. Sloths of a negative disposition will lament their fate and try to guilt trip the player into walking through passive agressive comments and insults.
+
+## Tech stack
+- React Native with Expo
+- JavaScript
+- Jest
+- Inkscape
 
 ## How to use
 ### Through Expo - **Recommended**
-1. Download the Expo go app on your phone.
+1. Download the Expo Go app on your phone.
 2. go to: 'https://expo.io/@hamisharro/projects/Guilt_Trip'.
   - scan the QR code on the page to launch the app if navigated to using a web browser.
   - Or click open on Expo if navigated to using phone browser.
 
-### Through repository
-1. clone repository to local libray.
-2. open repository with chosen editor.
+### Through GitHub
+1. Clone this repository to local libray.
+2. Open the repository with your chosen editor.
 3. run `npm i` in the command line to install all required modules.
-4. run `expo start` in the command line to run app.
-5. either use an IOS simulator on a PC or download Expo go on your phone.
-  - if you're using a simulator, run using link found on http://localhost:19002/ named either 'Run on Android device/emulator' or 'Run on iOS simulator' depending on which simulator you are using.
-  - if you're using the Expo go app, use your camera and scan the QR code found on http://localhost:19002/.
+4. Run `expo start` in the command line to run app. 
+ - Go to http://localhost:19002/ and eitgher 'Run on Android device/emulator' or 'Run on iOS simulator'; or
+  -Use the Expo Go app on your phone to scan the QR code found on http://localhost:19002/.
+
