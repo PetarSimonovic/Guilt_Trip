@@ -1,5 +1,8 @@
 # Sloth
 
+![Sloth](https://user-images.githubusercontent.com/69108995/118120598-0e61b100-b3e8-11eb-9e70-6591d6c75709.png)
+
+
 ## About
 Sloth was designed to make walking fun through gamification. 
 
