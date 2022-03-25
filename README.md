@@ -26,7 +26,7 @@ Sloths with a positive personality are upbeat and will encourage the player to k
   - Or click open on Expo if navigated to using phone browser.
 
 ### Through GitHub
-1. Clone this repository to local libray.
+1. Clone this repository to local library.
 2. Open the repository with your chosen editor.
 3. run `npm i` in the command line to install all required modules.
 4. Run `expo start` in the command line to run app. 
